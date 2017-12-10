@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "991367891589",
+    "firebase_url": "https://brockcaster.firebaseio.com",
+    "project_id": "brockcaster",
+    "storage_bucket": "brockcaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991367891589:android:87a524f1d1f60935",
+        "android_client_info": {
+          "package_name": "com.example.jeff.brockcaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991367891589-tkqjig2udnd2jcphmi74vl42ap086uu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jeff.brockcaster",
+            "certificate_hash": "460b998549eea01befcf2d125c3848094bd0c0a3"
+          }
+        },
+        {
+          "client_id": "991367891589-ubvnap9cn4gjbhgoj3tqrt4o4105svan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm578h3OYnwmynBrYlSXAmzafFj4nstrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991367891589-ubvnap9cn4gjbhgoj3tqrt4o4105svan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
